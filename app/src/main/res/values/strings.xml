@@ -1,0 +1,11 @@
+<resources>
+    <!-- Blog Entry Strings -->
+    <string name="hint_username">Username</string>
+    <string name="hint_comment">Comment</string>
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Search Strings -->
+    <string name="hint_search_text">Search by Text</string>
+    <string name="hint_search_date">Search by Date (yyyy-MM-dd)</string>
+    <string name="search_button_text">Search</string>
+</resources>
